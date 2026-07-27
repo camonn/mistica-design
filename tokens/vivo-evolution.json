@@ -56,9 +56,9 @@
       "description": "vivoNeutral0"
     },
     "backgroundBrand": {
-      "value": "{palette.vivoPurple700}",
+      "value": "{palette.vivoPurple750}",
       "type": "color",
-      "description": "vivoPurple700"
+      "description": "vivoPurple750"
     },
     "backgroundNegative": {
       "value": "{palette.vivoPurple900}",
@@ -91,9 +91,9 @@
       "description": "vivoNeutral950"
     },
     "backgroundContainerBrand": {
-      "value": "{palette.vivoPurple700}",
+      "value": "{palette.vivoPurple750}",
       "type": "color",
-      "description": "vivoPurple700"
+      "description": "vivoPurple750"
     },
     "backgroundContainerBrandHover": {
       "value": "rgba({palette.vivoNeutral950}, 0.2)",
@@ -121,6 +121,16 @@
       "value": "{palette.vivoPurple650}",
       "type": "color",
       "description": "vivoPurple650"
+    },
+    "backgroundContainerAlternativeOverAlternative": {
+      "value": "{palette.vivoNeutral150}",
+      "type": "color",
+      "description": "vivoNeutral150"
+    },
+    "backgroundContainerBrandSecondaryOverBrand": {
+      "value": "{palette.vivoPurple800}",
+      "type": "color",
+      "description": "vivoPurple800"
     },
     "backgroundContainerAlternative": {
       "value": "{palette.vivoNeutral25}",
