@@ -154,6 +154,16 @@
       "type": "color",
       "description": "blue80"
     },
+    "backgroundContainerAlternativeOverAlternative": {
+      "value": "",
+      "type": "color",
+      "description": ""
+    },
+    "backgroundContainerBrandSecondaryOverBrand": {
+      "value": "",
+      "type": "color",
+      "description": ""
+    },
     "backgroundContainerAlternative": {
       "value": "{palette.grey1}",
       "type": "color",
@@ -1788,6 +1798,16 @@
       "value": "{palette.darkModeGrey}",
       "type": "color",
       "description": "darkModeGrey"
+    },
+    "backgroundContainerAlternativeOverAlternative": {
+      "value": "",
+      "type": "color",
+      "description": ""
+    },
+    "backgroundContainerBrandSecondaryOverBrand": {
+      "value": "",
+      "type": "color",
+      "description": ""
     },
     "backgroundContainerAlternative": {
       "value": "{palette.darkModeGrey}",
